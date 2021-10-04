@@ -1,7 +1,7 @@
 package com.example.geeksquad;
 
 public class Shape {
-    String colour = "blue";
+    String colour = "green";
     int x;
     int y;
 }
