@@ -16,4 +16,8 @@
 .cxx
 local.properties
 .project
+<<<<<<< HEAD
 .settings/
+=======
+.settings/
+>>>>>>> origin
